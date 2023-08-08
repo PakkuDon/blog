@@ -2,7 +2,7 @@
 
 Hosted at https://pakkudon.github.io/blog/
 
-This blog built using [Hugo](https://gohugo.io/).
+This blog was built using [Hugo](https://gohugo.io/).
 
 ## Development
 ### Pre-requisites
@@ -15,3 +15,6 @@ This blog built using [Hugo](https://gohugo.io/).
 ### Adding new posts
 1. Run `hugo new post/<post slug>.md`
 2. Edit new markdown file in `content/post` directory
+
+### Publishing changes
+Changes pushed to `main` are automatically deployed to Github Pages. This is done via a workflow defined in [`.github/workflows/hugo.yml`](.github/workflows/hugo.yml).
