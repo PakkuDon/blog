@@ -30,3 +30,8 @@ main = []
 
     [menu.social.params]
     icon = "brand-github"
+
+  [[menu.social]]
+  identifier = "rss"
+  name = "RSS Feed"
+  url = "index.xml"
