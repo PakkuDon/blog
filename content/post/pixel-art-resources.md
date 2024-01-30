@@ -1,7 +1,7 @@
 ---
 title: "Pixel art resources"
 date: 2024-01-30T23:45:04+11:00
-categories:
+tags:
   - Pixel Art
 ---
 

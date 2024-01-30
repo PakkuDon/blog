@@ -1,7 +1,7 @@
 ---
 title: "How I got into pixel art"
 date: 2023-11-25T00:10:17+11:00
-categories:
+tags:
   - Pixel Art
 ---
 
