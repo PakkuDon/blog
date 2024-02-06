@@ -2,7 +2,7 @@
 title: "How I got into pixel art"
 date: 2023-11-25T00:10:17+11:00
 tags:
-  - Pixel Art
+  - pixel art
 ---
 
 The usual answer I give is that I got into pixel art to get through the lockdowns in 2020. But there's usually other things involved in picking up a new hobby, like learning how to do said hobby, finding inspiration and more.
