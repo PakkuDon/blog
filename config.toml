@@ -34,4 +34,4 @@ main = []
   [[menu.social]]
   identifier = "rss"
   name = "RSS Feed"
-  url = "index.xml"
+  url = "/index.xml"
