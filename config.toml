@@ -35,3 +35,6 @@ main = []
   identifier = "rss"
   name = "RSS Feed"
   url = "/index.xml"
+
+    [menu.social.params]
+    icon = "rss"
