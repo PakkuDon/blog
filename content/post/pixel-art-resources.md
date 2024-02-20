@@ -37,19 +37,20 @@ Some of these were already recommended in my previous blog post. For those of yo
 - [Palette List | Lospec](https://lospec.com/palette-list)
 
 # Some pixel artists for inspiration
-- waneella ([Twitter](https://twitter.com/waneella_), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
-- 8pxl ([Website](https://8pxl.co/), [Twitter](https://twitter.com/16pxl), [Instagram](https://www.instagram.com/8pxl_/))
-- Franek ([Twitter](https://twitter.com/Franrekk), [Instagram](https://www.instagram.com/franek_pixelart))
-- Pixel Art Journey ([Twitter](https://twitter.com/PixelArtJourney/), [Instagram](https://www.instagram.com/pixelartjj))
+- waneella ([Bluesky](https://bsky.app/profile/waneella.bsky.social), [Twitter](https://twitter.com/waneella_), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
+- 8pxl ([Website](https://8pxl.co/), [Bluesky](https://bsky.app/profile/8pxl.bsky.social), [Twitter](https://twitter.com/16pxl), [Instagram](https://www.instagram.com/8pxl_/))
+- Franek ([Bluesky](https://bsky.app/profile/franekk.bsky.social), [Twitter](https://twitter.com/Franrekk), [Instagram](https://www.instagram.com/franek_pixelart))
+- Pixel Art Journey ([Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social), [Twitter](https://twitter.com/PixelArtJourney/), [Instagram](https://www.instagram.com/pixelartjj))
 - StuntmAEn Bob ([Twitter](https://twitter.com/StuntmAEn_Bob))
 - pixelianska ([Twitter](https://twitter.com/pixelianska), [Instagram](https://instagram.com/pixelianska))
-- nyura_kim ([Twitter](https://twitter.com/nyura_kim), [Instagram](https://www.instagram.com/nyurakim/))
-- SalamiChild ([Website](https://salamichild.wordpress.com/), [Twitter](https://twitter.com/SalamiChild))
+- nyura_kim ([Bluesky](https://bsky.app/profile/nyurakim.bsky.social), [Twitter](https://twitter.com/nyura_kim), [Instagram](https://www.instagram.com/nyurakim/))
+- SalamiChild ([Bluesky](https://bsky.app/profile/salamiinbits.bsky.social), [Website](https://salamichild.wordpress.com/), [Twitter](https://twitter.com/SalamiChild))
 - yuugapaint ([Twitter](https://twitter.com/yuugapaint))
 - evsailey ([Twitter](https://twitter.com/evsailey))
 - Ryan h ([Twitter](https://twitter.com/Myartbytes1))
 - 1041uuu ([Twitter](https://twitter.com/1041uuu))
 - Slynyrd ([Website](https://www.slynyrd.com/), [Twitter](https://twitter.com/rayslynyrd))
+- Becky C ([Bluesky](https://bsky.app/profile/tinydiorama.bsky.social))
 
 # Drawing prompts + challenges
 - [Pixel Dailies | Twitter](https://twitter.com/Pixel_Dailies)
