@@ -1,6 +1,7 @@
 ---
 title: "Reverting a force push to gh-pages"
 date: 2024-02-18T23:39:10+11:00
+description: I borked the gh-pages branch in one of my side projects. Here's how that happened and how I brought it back
 tags:
   - software development
   - git

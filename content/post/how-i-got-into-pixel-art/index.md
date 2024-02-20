@@ -1,6 +1,7 @@
 ---
 title: "How I got into pixel art"
 date: 2023-11-25T00:10:17+11:00
+description: A story or something about picking up a new hobby and finding inspiration for it
 tags:
   - pixel art
   - stories

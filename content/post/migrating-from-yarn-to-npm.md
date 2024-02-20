@@ -1,6 +1,7 @@
 ---
 title: "Migrating From Yarn to npm"
 date: 2024-02-06T21:11:52+11:00
+description: A guide on how to switch from Yarn to npm for dependency management
 tags:
   - software development
   - javascript

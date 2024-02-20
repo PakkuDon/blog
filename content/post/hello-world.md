@@ -1,6 +1,7 @@
 ---
 title: "Hello World"
 date: 2023-08-07T23:21:21+10:00
+description: Obligatory test post
 ---
 
 Hello everyone 👋
