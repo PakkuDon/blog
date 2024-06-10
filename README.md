@@ -14,12 +14,12 @@ This blog was built using [Hugo](https://gohugo.io/).
 
 ### Adding new posts
 #### For text-only posts
-1. Run `hugo new post/<post slug>.md`
+1. Run `hugo new post/<date in YYYY-MM-DD>-<post slug>.md`
 2. Edit new markdown file in `content/post` directory
 
 #### For posts that have related assets
-1. Run `hugo new --kind post-bundle post/<post slug>`
-2. Edit new markdown file in `content/post/<post slug>` directory
+1. Run `hugo new --kind post-bundle post/<date in YYYY-MM-DD>-<post slug>`
+2. Edit new markdown file in `content/post/<date in YYYY-MM-DD>-<post slug>` directory
 
 ### Publishing changes
 Changes pushed to `main` are automatically deployed to Github Pages. This is done via a workflow defined in [`.github/workflows/hugo.yml`](.github/workflows/hugo.yml).
