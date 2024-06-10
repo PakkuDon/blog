@@ -13,12 +13,7 @@ This blog was built using [Hugo](https://gohugo.io/).
 2. Visit http://localhost:1313/blog/ to view changes.
 
 ### Adding new posts
-#### For text-only posts
-1. Run `hugo new post/<date in YYYY-MM-DD>-<post slug>.md`
-2. Edit new markdown file in `content/post` directory
-
-#### For posts that have related assets
-1. Run `hugo new --kind post-bundle post/<date in YYYY-MM-DD>-<post slug>`
+1. Run `hugo new post/<date in YYYY-MM-DD>-<post slug>`
 2. Edit new markdown file in `content/post/<date in YYYY-MM-DD>-<post slug>` directory
 
 ### Publishing changes
