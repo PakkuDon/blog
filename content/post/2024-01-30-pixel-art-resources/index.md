@@ -15,12 +15,14 @@ Some of these were already recommended in my previous blog post. For those of yo
 - [Pixel Art: Where to Start | Lospec](https://lospec.com/articles/pixel-art-where-to-start/)
 - [The Pixel Art Tutorial | Pixel Joint](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 - [The Ultimate Pixel Art Tutorial by Saultoons | Youtube (14m 14s)](https://www.youtube.com/watch?v=lfR7Qj04-UA)
+- [So you want to learn pixel art? | TofuPixel](https://www.tumblr.com/tofupixel/753826462739611648/so-you-want-to-learn-pixel-art)
 
 ## Collections
 - [Tutorials | Lospec](https://lospec.com/pixel-art-tutorials)
 - [/r/PixelArtTutorials](https://reddit.com/r/PixelArtTutorials)
 - [Tutorials by Slynyrd | Patreon](https://www.patreon.com/collection/101711?view=expanded)
 - [Tutorials by PixelArtJourney | Tumblr](https://pixelartjourney.tumblr.com/archive/tagged/tutorial)
+- [Tutorials by Rappenem | DeviantArt](https://www.deviantart.com/rappenem/gallery/91549653/art-tutorials)
 
 ## A few tutorials I've used
 - [Rock tutorial by Franrekk | Reddit](https://www.reddit.com/r/PixelArt/comments/ipubd3/mini_pixelart_rock_tutorial/)
@@ -51,6 +53,7 @@ Some of these were already recommended in my previous blog post. For those of yo
 - 1041uuu ([Twitter](https://twitter.com/1041uuu))
 - Slynyrd ([Website](https://www.slynyrd.com/), [Twitter](https://twitter.com/rayslynyrd))
 - Becky C ([Bluesky](https://bsky.app/profile/tinydiorama.bsky.social))
+- aleha_84 ([Instagram](https://www.instagram.com/aleha_84), [Tumblr](https://www.tumblr.com/aleha84))
 
 # Drawing prompts + challenges
 - [Pixel Dailies | Twitter](https://twitter.com/Pixel_Dailies)
