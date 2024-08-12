@@ -4,6 +4,7 @@ date: 2024-01-30T23:45:04+11:00
 description: Suggested links for those looking to draw more pixel art
 tags:
   - pixel art
+  - resources
 ---
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
