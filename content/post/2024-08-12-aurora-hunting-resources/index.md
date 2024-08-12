@@ -20,6 +20,7 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 - [Aurorasaurus](https://www.aurorasaurus.org/) - Aurora sighting reports
 - [Southern Hemisphere Aurora Group | Facebook](https://www.facebook.com/groups/SouthernHemisphereAuroraGroup/) - Aurora forecasts and sightings for southern hemisphere
 - [Southern Hemisphere Aurora Group: Your Aurora Australis Resource for Strength Estimation (SHAG: UPYAARSE) | Facebook](https://www.facebook.com/groups/shagupyaarse/) - Aurora forecasts for southern hemisphere
+- [/r/melbourne](https://old.reddit.com/r/melbourne/) - Occasionally has aurora alerts and sightings
 
 ## Other useful resources
 - [Satellite Viewer | BOM](http://satview.bom.gov.au/) - Current cloud cover
