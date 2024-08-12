@@ -26,11 +26,14 @@ git submodule foreach git pull origin master
 ```
 
 ### Update Hugo version
-- Download the latest available release from [https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases) and install it using your choice of package manager
+1. Download the latest available release from [https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases)
+2. Install Hugo using your choice of package manager if required
+3. Update `HUGO_VERSION` in [`.github/workflows/hugo.yml`](.github/workflows/hugo.yml) to ensure CI uses same Hugo version as local environment
 ```sh
 # Example
 curl -LJO https://github.com/gohugoio/hugo/releases/download/v0.131.0/hugo_0.131.0_linux-amd64.deb
 sudo dpkg -i hugo_0.131.0_linux-amd64.deb
 rm hugo_0.131.0_linux-amd64.deb
 ```
-- Alternatively, see [Hugo's docs](https://gohugo.io/installation/) for other methods
+
+Alternatively, see [Hugo's docs](https://gohugo.io/installation/) for other methods
