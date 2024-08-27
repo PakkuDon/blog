@@ -55,6 +55,7 @@ Some of these were already recommended in my previous blog post. For those of yo
 - Slynyrd ([Website](https://www.slynyrd.com/), [Twitter](https://twitter.com/rayslynyrd))
 - Becky C ([Bluesky](https://bsky.app/profile/tinydiorama.bsky.social))
 - aleha_84 ([Instagram](https://www.instagram.com/aleha_84), [Tumblr](https://www.tumblr.com/aleha84))
+- Ko.dll ([Twitter](https://twitter.com/ko_dll))
 
 # Drawing prompts + challenges
 - [Pixel Dailies | Twitter](https://twitter.com/Pixel_Dailies)
