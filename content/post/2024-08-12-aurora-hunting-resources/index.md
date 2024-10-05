@@ -8,7 +8,7 @@ tags:
   - resources
 ---
 
-_Last updated: October 4, 2024_
+_Last updated: October 5, 2024_
 
 There's been more auroras recently as we're either in or approaching the peak of the [solar cycle](https://www.swpc.noaa.gov/products/solar-cycle-progression). I caught my first aurora during the [G5 geomagnetic storm back in May this year](https://media.bom.gov.au/releases/1225/the-bureau-observes-a-g5-geomagnetic-storm/) and I caught a glimpse of another one from my backyard today.
 
@@ -21,11 +21,13 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 - [Aurora Australis Forecast](https://cdn.softservenews.com/southern_lights.html) - Prediction of storm intensity (Kp index) in next few minutes (lead time up to 15 minutes)
 - [Aurorasaurus](https://www.aurorasaurus.org/) - Aurora sighting reports
 - [Glendale App](https://aurora-alerts.uk/) - Progressive web app with aurora alerts (Registration required maybe?)
+- [Auroral activity | SpaceWeatherLive.com](https://www.spaceweatherlive.com/en/auroral-activity.html)
 
 ## Social media groups
 - [Southern Hemisphere Aurora Group | Facebook](https://www.facebook.com/groups/SouthernHemisphereAuroraGroup/) - Aurora forecasts and sightings from southern hemisphere
 - [Southern Hemisphere Aurora Group: Your Aurora Australis Resource for Strength Estimation (SHAG: UPYAARSE) | Facebook](https://www.facebook.com/groups/shagupyaarse/) - Aurora forecasts for southern hemisphere
 - [/r/melbourne](https://old.reddit.com/r/melbourne/) - Occasionally has aurora alerts and sightings
+- [Vincent Ledvina - 'The Aurora Guy' | Facebook](https://www.facebook.com/vincentledvina/)
 
 ## Other useful resources
 - [Satellite Viewer | BOM](http://satview.bom.gov.au/) - Current cloud cover
