@@ -7,6 +7,8 @@ tags:
   - resources
 ---
 
+_Last updated: October 19, 2024_
+
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
 Some of these were already recommended in my previous blog post. For those of you who already read that post, there's some new links in this post too.
