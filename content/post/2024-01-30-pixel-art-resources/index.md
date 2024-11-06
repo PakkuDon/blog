@@ -7,7 +7,7 @@ tags:
   - resources
 ---
 
-_Last updated: October 19, 2024_
+_Last updated: November 6, 2024_
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
@@ -18,7 +18,7 @@ Some of these were already recommended in my previous blog post. For those of yo
 - [Pixel Art: Where to Start | Lospec](https://lospec.com/articles/pixel-art-where-to-start/)
 - [The Pixel Art Tutorial | Pixel Joint](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 - [The Ultimate Pixel Art Tutorial by Saultoons | Youtube (14m 14s)](https://www.youtube.com/watch?v=lfR7Qj04-UA)
-- [So you want to learn pixel art? | TofuPixel](https://www.tumblr.com/tofupixel/753826462739611648/so-you-want-to-learn-pixel-art)
+- [So you want to learn pixel art? | TofuPixel](https://docs.google.com/document/d/1RLv5HGMCdJYgEaTo_dFTt9ZI6CQDQAGiKTluG74eBCg/)
 
 ## Collections
 - [Tutorials | Lospec](https://lospec.com/pixel-art-tutorials)
@@ -68,14 +68,14 @@ Some of these were already recommended in my previous blog post. For those of yo
 - Hagl ([Bluesky](https://bsky.app/profile/pixel-hagl.bsky.social))
 
 # Drawing prompts + challenges
-- [Pixel Dailies | Twitter](https://twitter.com/Pixel_Dailies)
+- [Pixel Dailies | BlueSky](https://bsky.app/profile/pixeldailies.bsky.social)
 - [Lospec Dailies](https://lospec.com/dailies/)
 - Swordtember (During September) - Has a few variants. Founded by [faith_schaffer](https://www.instagram.com/faith_schaffer)
 - [Colour Wheel Challenge](https://twitter.com/Ankinluu_/status/1654934099373555712)
 
 # Communities
-- [#pixelart | Twitter](https://twitter.com/hashtag/pixelart)
-- [Pixel Dailies | Twitter](https://twitter.com/Pixel_Dailies)
+- [#pixelart | BlueSky](https://bsky.app/hashtag/pixelart)
+- [Pixel Dailies | BlueSky](https://bsky.app/profile/pixeldailies.bsky.social)
 - [/r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [#PortfolioDay](https://www.portfolioday.art/)
 - [Lospec Discord](https://lospec.com/discord)
