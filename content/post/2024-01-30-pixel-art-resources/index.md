@@ -7,7 +7,7 @@ tags:
   - resources
 ---
 
-_Last updated: November 6, 2024_
+_Last updated: November 7, 2024_
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
@@ -26,12 +26,13 @@ Some of these were already recommended in my previous blog post. For those of yo
 - [Tutorials by Slynyrd | Patreon](https://www.patreon.com/collection/101711?view=expanded)
 - [Tutorials by PixelArtJourney | Tumblr](https://pixelartjourney.tumblr.com/archive/tagged/tutorial)
 - [Tutorials by Rappenem | DeviantArt](https://www.deviantart.com/rappenem/gallery/91549653/art-tutorials)
+- [Tutorials by Saint11](https://saint11.art/blog/pixel-art-tutorials)
 
 ## A few tutorials I've used
 - [Rock tutorial by Franrekk | Reddit](https://www.reddit.com/r/PixelArt/comments/ipubd3/mini_pixelart_rock_tutorial/)
 - [Bush tutorial by Franrekk | Reddit](https://www.reddit.com/r/PixelArt/comments/16z4lt4/pixelart_bush_tutorial/)
 - [Cloud tutorial by 8pxl | Twitter](https://twitter.com/16pxl/status/1279858416266051584)
-- [Cloud tutorial by Pedro Medeiros | Twitter](https://twitter.com/saint11/status/894948250289139713)
+- [Cloud tutorial by Pedro Medeiros | Saint11](https://saint11.art/blog/pixel-art-tutorials/#Clouds)
 - [Dithering tutorial by Sadface_RL | Reddit](https://old.reddit.com/r/PixelArt/comments/c4krcr/dithering_tutorial_for_beginners/)
 - [Landscape Pixeling by Slynyrd](https://www.slynyrd.com/blog/2018/11/16/pixelblog-11-landscape-pixeling)
 - [Cityscapes by Slynyrd](https://www.slynyrd.com/blog/2019/2/23/pixelblog-14-cityscapes)
@@ -42,22 +43,22 @@ Some of these were already recommended in my previous blog post. For those of yo
 - [Palette List | Lospec](https://lospec.com/palette-list)
 
 # Some pixel artists for inspiration
-- waneella ([Bluesky](https://bsky.app/profile/waneella.bsky.social), [Twitter](https://twitter.com/waneella_), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
-- 8pxl ([Website](https://8pxl.co/), [Bluesky](https://bsky.app/profile/8pxl.bsky.social), [Twitter](https://twitter.com/16pxl), [Instagram](https://www.instagram.com/8pxl_/))
-- Franek ([Bluesky](https://bsky.app/profile/franekk.bsky.social), [Twitter](https://twitter.com/Franrekk), [Instagram](https://www.instagram.com/franek_pixelart))
-- Pixel Art Journey ([Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social), [Twitter](https://twitter.com/PixelArtJourney/), [Instagram](https://www.instagram.com/pixelartjj))
-- StuntmAEn Bob ([Twitter](https://twitter.com/StuntmAEn_Bob))
-- pixelianska ([Twitter](https://twitter.com/pixelianska), [Instagram](https://instagram.com/pixelianska))
-- nyura_kim ([Bluesky](https://bsky.app/profile/nyurakim.bsky.social), [Twitter](https://twitter.com/nyura_kim), [Instagram](https://www.instagram.com/nyurakim/))
-- SalamiChild ([Bluesky](https://bsky.app/profile/salamiinbits.bsky.social), [Website](https://salamichild.wordpress.com/), [Twitter](https://twitter.com/SalamiChild))
+- waneella ([Bluesky](https://bsky.app/profile/waneella.bsky.social), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
+- 8pxl ([Website](https://8pxl.co/), [Bluesky](https://bsky.app/profile/8pxl.bsky.social), [Instagram](https://www.instagram.com/8pxl_/))
+- Franek ([Bluesky](https://bsky.app/profile/franekk.bsky.social), [Instagram](https://www.instagram.com/franek_pixelart))
+- Pixel Art Journey ([Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social), [Instagram](https://www.instagram.com/pixelartjj))
+- StuntmAEn Bob ([Bluesky](https://bsky.app/profile/stuntmaenbob.bsky.social))
+- pixelianska ([Instagram](https://instagram.com/pixelianska))
+- nyura_kim ([Bluesky](https://bsky.app/profile/nyurakim.bsky.social), [Instagram](https://www.instagram.com/nyurakim/))
+- SalamiChild ([Bluesky](https://bsky.app/profile/salamiinbits.bsky.social), [Website](https://salamichild.wordpress.com/))
 - yuugapaint ([Twitter](https://twitter.com/yuugapaint))
-- evsailey ([Bluesky](https://bsky.app/profile/evsailey.bsky.social), [Twitter](https://twitter.com/evsailey))
-- myartbytes ([Bluesky](https://bsky.app/profile/myartbytes.bsky.social), [Twitter](https://twitter.com/Myartbytes1))
-- 1041uuu ([Bluesky](https://bsky.app/profile/1041uuu.bsky.social), [Twitter](https://twitter.com/1041uuu))
-- Slynyrd ([Website](https://www.slynyrd.com/), [Bluesky](https://bsky.app/profile/slynyrd.bsky.social), [Twitter](https://twitter.com/rayslynyrd))
+- evsailey ([Bluesky](https://bsky.app/profile/evsailey.bsky.social))
+- myartbytes ([Bluesky](https://bsky.app/profile/myartbytes.bsky.social))
+- 1041uuu ([Bluesky](https://bsky.app/profile/1041uuu.bsky.social))
+- Slynyrd ([Website](https://www.slynyrd.com/), [Bluesky](https://bsky.app/profile/slynyrd.bsky.social))
 - Becky C ([Bluesky](https://bsky.app/profile/tinydiorama.bsky.social))
 - aleha_84 ([Bluesky](https://bsky.app/profile/aleha84.bsky.social), [Instagram](https://www.instagram.com/aleha_84), [Tumblr](https://www.tumblr.com/aleha84))
-- Ko.dll ([Bluesky](https://bsky.app/profile/ko-dll.bsky.social), [Twitter](https://twitter.com/ko_dll))
+- Ko.dll ([Bluesky](https://bsky.app/profile/ko-dll.bsky.social))
 - Rappenem ([Bluesky](https://bsky.app/profile/rappenem.bsky.social), [DeviantArt](https://www.deviantart.com/rappenem))
 - One Byte Cafe ([Bluesky](https://bsky.app/profile/onebytecafe.bsky.social))
 - TofuPixel ([Bluesky](https://bsky.app/profile/tofupixel.bsky.social), [Tumblr](https://tofupixel.tumblr.com/))
