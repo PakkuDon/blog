@@ -7,7 +7,7 @@ tags:
   - resources
 ---
 
-_Last updated: November 7, 2024_
+_Last updated: December 2, 2024_
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
@@ -69,10 +69,11 @@ Some of these were already recommended in my previous blog post. For those of yo
 - Hagl ([Bluesky](https://bsky.app/profile/pixel-hagl.bsky.social))
 
 # Drawing prompts + challenges
-- [Pixel Dailies | BlueSky](https://bsky.app/profile/pixeldailies.bsky.social)
+- [Pixel Dailies | Bluesky](https://bsky.app/profile/pixeldailies.bsky.social)
 - [Lospec Dailies](https://lospec.com/dailies/)
 - Swordtember (During September) - Has a few variants. Founded by [faith_schaffer](https://www.instagram.com/faith_schaffer)
 - [Colour Wheel Challenge](https://twitter.com/Ankinluu_/status/1654934099373555712)
+- [Pixel Artvent | PixelArtJourney | Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social/post/3lc6cgoxds22n)
 
 # Communities
 - [#pixelart | BlueSky](https://bsky.app/hashtag/pixelart)
