@@ -20,6 +20,11 @@ theme = 'hugo-theme-stack'
   [params.footer]
     since = "2023"
 
+  [params.widgets]
+    [[params.widgets.page]]
+      type = "toc"
+
+
 [menu]
 main = []
 
