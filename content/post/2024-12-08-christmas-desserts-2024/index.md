@@ -10,6 +10,8 @@ tags:
   - melbourne
 ---
 
+_Last updated: December 10, 2024_
+
 Restaurants listed in alphabetical order
 
 ## bissel.b
@@ -69,6 +71,7 @@ https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-g
 
 - Noël de Chocolaté (Cake. Dark chocolate, caramel, coconut) - Pre-order required
 - Noël de Cheesecake (Cake. Cream cheese, pineapple, mango, coconut, citrus) - Pre-order required
+- Noël de Festive (Cake. Milk chocolate, orange, hazelnut) - Pre-order required
 
 ## Le Yeahllow
 https://www.leyeahllow.com.au/
@@ -83,10 +86,22 @@ https://www.luxbite.com.au/
 - Santa Hat (Cake. Dark chocolate, cherry, coconut)
 - Jungle Gingy (Cake. Lemon, lime, apple)
 
+## Madeleine de Proust
+https://www.madeleinedeproust.com.au/
+
+- Pista-wreath (Madeleine. Pistachio, citrus, cherry, cranberry)
+- Santa's Present (Madeleine. Orange, fruit mince)
+- Gingerbear Madeleine (Gingerbread spice, speculoos)
+
 ## Mille & B
 https://www.milleandb.com.au/
 
 - Pistachio & Cherry Crepe Cake - Pre-order required (~3 days from order to collection)
+
+## Musu&co (Moonshine)
+https://www.instagram.com/moonshine_au (Announced in https://www.instagram.com/moonshine_au/p/DDLZQ9nzkj_)
+
+- Christmas Cake (Caramel apple) - Pre-order required
 
 ## Nimbo
 https://www.instagram.com/hereisnimbo/
