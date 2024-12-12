@@ -10,7 +10,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: December 10, 2024_
+_Last updated: December 12, 2024_
 
 Restaurants listed in alphabetical order
 
@@ -79,12 +79,19 @@ https://www.leyeahllow.com.au/
 - Valhorna Advent Calendar
 - Merry Berry (Cake. Chocolate, dark cherry)
 
+## Lulu and me cheesecakes
+https://www.instagram.com/luluandme_cheesecakes/
+
+- Christmas Baked Cheesecake (Spiced roasted pear, cherry, white chocolate)
+- Pistachio and Cherry Basque (Cheesecake. Pistachio, cherry)
+
 ## LuxBite
 https://www.luxbite.com.au/
 
 - Rudolph (Cake. Coffee, milk chocolate, pear, caramel)
 - Santa Hat (Cake. Dark chocolate, cherry, coconut)
 - Jungle Gingy (Cake. Lemon, lime, apple)
+- Snowman (Cake. Yoghurt, blackcurrant, blueberry)
 
 ## Madeleine de Proust
 https://www.madeleinedeproust.com.au/
@@ -97,6 +104,17 @@ https://www.madeleinedeproust.com.au/
 https://www.milleandb.com.au/
 
 - Pistachio & Cherry Crepe Cake - Pre-order required (~3 days from order to collection)
+
+## Miilk Cake Studio
+https://www.miilkcakestudio.com/
+
+- Cherry Days (Cake. Chocolate, cherry, vanilla)
+- Pistachio Of Your Dreams (Cake. Pistachio, raspberry)
+- Raspberry Fields (Raspberry, chocolate)
+- The Snowman (Cake. Strawberry, lychee)
+- Coconut Snow (Drink. Coconut)
+- The Campfire (Drink. Peppermint, chocolate)
+- Assorted Cupcakes
 
 ## Musu&co (Moonshine)
 https://www.instagram.com/moonshine_au (Announced in https://www.instagram.com/moonshine_au/p/DDLZQ9nzkj_)
