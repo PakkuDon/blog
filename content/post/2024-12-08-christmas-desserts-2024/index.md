@@ -10,7 +10,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: December 12, 2024_
+_Last updated: December 15, 2024_
 
 Restaurants listed in alphabetical order
 
@@ -138,9 +138,7 @@ https://pennyforpound.com.au/collections/christmas
 https://www.piccolinagelateria.com.au/
 
 - Golden Bauble Budino (Ice cream cake. Peanut butter, white chocolate, dulce de leche, chocolate) - Pre-order required (~2 days from order to collection)
-- Gingerbread gelato (Dulce de leche, gingerbread)
-- Torrone gelato (Salted caramel, almond)
-- White Christmas gelato (Coconut, white chocolate, rice bubbles, glacé cherries, almonds)
+- Weekly ice cream flavours. See [Piccolina's website](https://www.piccolinagelateria.com.au/gelato) for latest updates
 
 ## Pidapipo
 https://pidapipo.com/
