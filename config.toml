@@ -26,8 +26,6 @@ theme = 'hugo-theme-stack'
 
 
 [menu]
-main = []
-
   [[menu.social]]
   identifier = "github"
   name = "GitHub"
@@ -51,3 +49,11 @@ main = []
 
     [menu.social.params]
     icon = "rss"
+
+  [[menu.main]]
+    name = "Links"
+    url = "/tags/links"
+    weight = 10
+    identifier = "links"
+    [menu.main.params]
+        icon = "link"
