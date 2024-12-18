@@ -10,7 +10,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: December 15, 2024_
+_Last updated: December 18, 2024_
 
 Restaurants listed in alphabetical order
 
@@ -78,12 +78,20 @@ https://www.leyeahllow.com.au/
 
 - Valhorna Advent Calendar
 - Merry Berry (Cake. Chocolate, dark cherry)
+- Lemon Pound Cake
 
 ## Lulu and me cheesecakes
 https://www.instagram.com/luluandme_cheesecakes/
 
 - Christmas Baked Cheesecake (Spiced roasted pear, cherry, white chocolate)
 - Pistachio and Cherry Basque (Cheesecake. Pistachio, cherry)
+
+## Lune
+https://www.lunecroissanterie.com/
+
+- Choc Peppermint (Croissant)
+- Gingerbread (Croissant. Spiced syrup, pecan, gingerbread)
+- Eggnog Cruffin (Eggnog, rum)
 
 ## LuxBite
 https://www.luxbite.com.au/
