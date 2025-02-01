@@ -9,6 +9,8 @@ tags:
   - melbourne
 ---
 
+_Last updated: February 1st, 2025_
+
 Restaurants listed in alphabetical order
 
 ## Kariton
@@ -94,6 +96,11 @@ https://www.newshanghai.com.au/
 https://www.instagram.com/hereisnimbo/
 
 - Mandarin bingsu (Bingsu. Mandarin, vanilla)
+
+## Piccolina
+https://www.piccolinagelateria.com.au/
+
+- Halo-Halo (Collab with Serai. [Description](https://www.piccolinagelateria.com.au/collabs))
 
 ## Sulhwa
 https://www.instagram.com/sulhwa_australia
