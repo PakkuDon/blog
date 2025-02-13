@@ -9,7 +9,15 @@ tags:
   - melbourne
 ---
 
+_Last updated: February 13, 2025_
+
 Restaurants listed in alphabetical order
+
+## Kariton
+https://www.karitonsorbetes.com/
+
+- Bisou Bisou (Sorbet. Raspberry, lychee, rose)
+- Roses Are Red (Gelato. White chocolate, strawberry, rose)
 
 ## KOI
 https://www.koidessertbar.com.au/valentine
@@ -57,6 +65,11 @@ https://www.miilkcakestudio.com/
 - Perfect duo bear (Cake. Tea, sea salt)
 - Perfect Duo Frog (Cake. Pandan, coconut)
 - Pistachio of my dreams (Drink. Pistachio, pandan)
+
+## Nimbo
+https://www.instagram.com/hereisnimbo/
+
+- Blueberry grape shortcake bingsu
 
 ## Piccolina
 https://www.piccolinagelateria.com.au/
