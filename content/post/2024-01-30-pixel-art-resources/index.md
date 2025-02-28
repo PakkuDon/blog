@@ -7,7 +7,7 @@ tags:
   - resources
 ---
 
-_Last updated: December 2, 2024_
+_Last updated: February 28, 2025_
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
@@ -43,30 +43,33 @@ Some of these were already recommended in my previous blog post. For those of yo
 - [Palette List | Lospec](https://lospec.com/palette-list)
 
 # Some pixel artists for inspiration
-- waneella ([Bluesky](https://bsky.app/profile/waneella.bsky.social), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
-- 8pxl ([Website](https://8pxl.co/), [Bluesky](https://bsky.app/profile/8pxl.bsky.social), [Instagram](https://www.instagram.com/8pxl_/))
-- Franek ([Bluesky](https://bsky.app/profile/franekk.bsky.social), [Instagram](https://www.instagram.com/franek_pixelart))
-- Pixel Art Journey ([Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social), [Instagram](https://www.instagram.com/pixelartjj))
-- StuntmAEn Bob ([Bluesky](https://bsky.app/profile/stuntmaenbob.bsky.social))
-- pixelianska ([Instagram](https://instagram.com/pixelianska))
-- nyura_kim ([Bluesky](https://bsky.app/profile/nyurakim.bsky.social), [Instagram](https://www.instagram.com/nyurakim/))
-- SalamiChild ([Bluesky](https://bsky.app/profile/salamiinbits.bsky.social), [Website](https://salamichild.wordpress.com/))
-- yuugapaint ([Twitter](https://twitter.com/yuugapaint))
-- evsailey ([Bluesky](https://bsky.app/profile/evsailey.bsky.social))
-- myartbytes ([Bluesky](https://bsky.app/profile/myartbytes.bsky.social))
+Artists listed in alphabetical order
+
 - 1041uuu ([Bluesky](https://bsky.app/profile/1041uuu.bsky.social))
-- Slynyrd ([Website](https://www.slynyrd.com/), [Bluesky](https://bsky.app/profile/slynyrd.bsky.social))
-- Becky C ([Bluesky](https://bsky.app/profile/tinydiorama.bsky.social))
+- 8pxl ([Website](https://8pxl.co/), [Bluesky](https://bsky.app/profile/8pxl.bsky.social), [Instagram](https://www.instagram.com/8pxl_/))
 - aleha_84 ([Bluesky](https://bsky.app/profile/aleha84.bsky.social), [Instagram](https://www.instagram.com/aleha_84), [Tumblr](https://www.tumblr.com/aleha84))
-- Ko.dll ([Bluesky](https://bsky.app/profile/ko-dll.bsky.social))
-- Rappenem ([Bluesky](https://bsky.app/profile/rappenem.bsky.social), [DeviantArt](https://www.deviantart.com/rappenem))
-- One Byte Cafe ([Bluesky](https://bsky.app/profile/onebytecafe.bsky.social))
-- TofuPixel ([Bluesky](https://bsky.app/profile/tofupixel.bsky.social), [Tumblr](https://tofupixel.tumblr.com/))
-- Camille Unknown ([Bluesky](https://bsky.app/profile/camilleunknown.bsky.social))
-- Nura ([Bluesky](https://bsky.app/profile/nurapixel.bsky.social))
-- makrustic ([Bluesky](https://bsky.app/profile/makrustic.bsky.social))
 - atichii ([Bluesky](https://bsky.app/profile/atichiipixels.bsky.social))
+- Becky C ([Bluesky](https://bsky.app/profile/tinydiorama.bsky.social))
+- Camille Unknown ([Bluesky](https://bsky.app/profile/camilleunknown.bsky.social))
+- evsailey ([Bluesky](https://bsky.app/profile/evsailey.bsky.social))
+- Franek ([Bluesky](https://bsky.app/profile/franekk.bsky.social), [Instagram](https://www.instagram.com/franek_pixelart))
 - Hagl ([Bluesky](https://bsky.app/profile/pixel-hagl.bsky.social))
+- Ko.dll ([Bluesky](https://bsky.app/profile/ko-dll.bsky.social))
+- makrustic ([Bluesky](https://bsky.app/profile/makrustic.bsky.social))
+- myartbytes ([Bluesky](https://bsky.app/profile/myartbytes.bsky.social))
+- Nura ([Bluesky](https://bsky.app/profile/nurapixel.bsky.social))
+- nyura_kim ([Bluesky](https://bsky.app/profile/nyurakim.bsky.social), [Instagram](https://www.instagram.com/nyurakim/))
+- One Byte Cafe ([Bluesky](https://bsky.app/profile/onebytecafe.bsky.social))
+- Pixel Art Journey ([Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social), [Instagram](https://www.instagram.com/pixelartjj))
+- pixelianska ([Instagram](https://instagram.com/pixelianska))
+- Rappenem ([Bluesky](https://bsky.app/profile/rappenem.bsky.social), [DeviantArt](https://www.deviantart.com/rappenem))
+- SalamiChild ([Bluesky](https://bsky.app/profile/salamiinbits.bsky.social), [Website](https://salamichild.wordpress.com/))
+- Slynyrd ([Website](https://www.slynyrd.com/), [Bluesky](https://bsky.app/profile/slynyrd.bsky.social))
+- StuntmAEn Bob ([Bluesky](https://bsky.app/profile/stuntmaenbob.bsky.social))
+- TofuPixel ([Bluesky](https://bsky.app/profile/tofupixel.bsky.social), [Tumblr](https://tofupixel.tumblr.com/))
+- v78 ([Reddit](https://old.reddit.com/user/v78))
+- waneella ([Bluesky](https://bsky.app/profile/waneella.bsky.social), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
+- yuugapaint ([Twitter](https://twitter.com/yuugapaint))
 
 # Drawing prompts + challenges
 - [Pixel Dailies | Bluesky](https://bsky.app/profile/pixeldailies.bsky.social)
