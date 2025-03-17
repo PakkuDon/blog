@@ -1,7 +1,7 @@
 ---
 title: "Tags"
 menu: "tags"
-weight: 1
+weight: 3
 menu:
   main:
     params:
