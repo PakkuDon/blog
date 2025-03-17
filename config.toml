@@ -5,6 +5,7 @@ theme = 'hugo-theme-stack'
 
 [permalinks]
   post = '/post/:year/:month/:day/:title/'
+  link = '/link/:year/:month/:day/:title/'
 
 # Stack theme-specific configuration
 [params]
