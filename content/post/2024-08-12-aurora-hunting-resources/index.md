@@ -8,7 +8,7 @@ tags:
   - resources
 ---
 
-_Last updated: October 12, 2024_
+_Last updated: March 22, 2025_
 
 There's been more auroras recently as we're either in or approaching the peak of the [solar cycle](https://www.swpc.noaa.gov/products/solar-cycle-progression). I caught my first aurora during the [G5 geomagnetic storm back in May this year](https://media.bom.gov.au/releases/1225/the-bureau-observes-a-g5-geomagnetic-storm/) and I caught a glimpse of another one from my backyard today.
 
@@ -33,13 +33,16 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 - [Vincent Ledvina - 'The Aurora Guy' | Facebook](https://www.facebook.com/vincentledvina/)
 - [NOAA Space Weather Prediction Center | Twitter](https://twitter.com/NWSSWPC)
 
+## Webcams
+- [Queenstown, New Zealand Roundshot](https://queenstown.roundshot.com/#/) - Shots from New Zealand. Updated every 20 minutes
+- [Mt Buller, Victoria, Australia Roundshot](https://mtbuller.roundshot.com/pendergast-hut/#/) - Shots from Victoria, Australia. Updated every 20 minutes
+- [Cades Observatory, Kingston, TAS, Australia | All Sky Cam](https://www.allskycam.com/u.php?u=539) - Shots from Tasmania, Australia. Updated every 5 minutes
+- [Tamleugh Park | YouTube](https://www.youtube.com/@TamleughPark/streams) - Occasionally has livestreams of sky from north-east Victoria, Australia
+
 ## Other useful resources
 - [Satellite Viewer | BOM](http://satview.bom.gov.au/) - Current cloud cover
 - [Melbourne forecast | Windy](https://www.windy.com/-37.814/144.963?clouds,-38.305,144.963,8) - Current and predicted cloud cover
 - [Light pollution map](https://www.lightpollutionmap.info/)
-- [Queenstown, New Zealand Roundshot](https://queenstown.roundshot.com/#/) - Shots of sky from New Zealand. Updated every 20 minutes
-- [Mt Buller, Victoria, Australia Roundshot](https://mtbuller.roundshot.com/pendergast-hut/#/) - Shots of sky from Mt Buller, Victoria. Updated every 20 minutes
-- [Tamleugh Park | YouTube](https://www.youtube.com/@TamleughPark/streams) - Occasionally has livestreams of sky from north-east Victoria, Australia
 
 ## Tips
 - [Megathread from @Vincent_Ledvina](https://twitter.com/Vincent_Ledvina/status/1789115700373528875)
