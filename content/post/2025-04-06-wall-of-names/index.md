@@ -2,7 +2,7 @@
 title: "Introducing: Wall of Names"
 date: 2025-04-06T19:06:34+10:00
 description: A stand-up roster with sharks
-image: images/cover.png
+image: images/cover.webp
 tags:
   - software development
   - side project
@@ -10,7 +10,7 @@ tags:
 
 I made a standup roster because I figured it might be useful for work. Then I got bored and added some sharks to it
 
-![Wall of Names](images/screenshot.png)
+![Wall of Names](images/screenshot.webp)
 
 A few notes about this project:
 - This was built using HTML, Tailwind CSS and Vanilla JavaScript
