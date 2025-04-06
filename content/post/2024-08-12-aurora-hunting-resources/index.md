@@ -8,7 +8,7 @@ tags:
   - resources
 ---
 
-_Last updated: March 22, 2025_
+_Last updated: April 6th, 2025_
 
 There's been more auroras recently as we're either in or approaching the peak of the [solar cycle](https://www.swpc.noaa.gov/products/solar-cycle-progression). I caught my first aurora during the [G5 geomagnetic storm back in May this year](https://media.bom.gov.au/releases/1225/the-bureau-observes-a-g5-geomagnetic-storm/) and I caught a glimpse of another one from my backyard today.
 
@@ -17,6 +17,7 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 ## Aurora forecasts and updates
 - [Auroral activity | SpaceWeatherLive.com](https://www.spaceweatherlive.com/en/auroral-activity.html) - Aurora-related space weather events and metrics
 - [NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/) - Current space weather conditions and alerts
+  - [Space Weather Enthusiasts Dashboard](https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard) - Current space weather, solar wind, WSA-Enlil CME prediction model, and more metrics
   - [Aurora dashboard](https://www.swpc.noaa.gov/communities/aurora-dashboard-experimental) - Aurora oval, past Kp readings and 3-day forecast of Kp index
   - [Real Time Solar Wind](https://www.swpc.noaa.gov/products/real-time-solar-wind)
 - [Aurora dashboard | Australian Space Weather Forecasting Centre (ASWFC / BOM)](https://www.sws.bom.gov.au/Aurora) - Current aurora conditions and aurora advisories for Australia
@@ -45,7 +46,6 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 - [Light pollution map](https://www.lightpollutionmap.info/)
 
 ## Tips
-- [Megathread from @Vincent_Ledvina](https://twitter.com/Vincent_Ledvina/status/1789115700373528875)
 - [BOM Weather Guide: Catching the Aurora](https://www.youtube.com/watch?v=0xUF82rVljE)
 - [Where to see the Aurora Australis in Melbourne | Time Out](https://www.timeout.com/melbourne/things-to-do/where-to-see-the-aurora-australis-in-melbourne)
 - [theauroraguy.com](https://theauroraguy.com/) - Blog posts and guides for chasing auroras
