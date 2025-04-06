@@ -9,12 +9,13 @@ tags:
   - melbourne
 ---
 
-_Last updated: April 5th, 2025_
+_Last updated: April 6th, 2025_
 
 Restaurants listed in alphabetical order
 
 ## Baker Bleu
 https://bakerbleu.com.au/
+
 - Traditional Hot Cross Buns
 - Sour Cherry Dark Chocolate Hot Cross Buns
 
@@ -65,6 +66,15 @@ https://www.miilkcakestudio.com/
 - Bunny Hop (Cake. Chocolate, strawberry)
 - Easter Glow (Cake. Vanilla, peach, passionfruit)
 
+## Mork Chocolate
+https://www.morkchocolate.com.au/
+
+- Hot cross buns
+- Triple Chocolate (Easter Egg. Dark chocolate, meringue)
+- Pumpkin Pie (Easter egg. Pumpkin seeds, spiced pumpkin)
+- Caramel Biscuit (Easter egg. Salted caramel)
+- Passionfruit & Marshmallow (Easter egg. Passionfruit, strawberry gum, marshmallow)
+
 ## Pecks Road
 https://www.instagram.com/pecksroad/
 
@@ -75,6 +85,7 @@ https://pennyforpound.com.au/
 
 - Traditional hot cross buns
 - Chocolate hot cross buns
+- Hot cross cinnamon scroll
 
 ## Piccolina
 https://www.piccolinagelateria.com.au/
@@ -87,6 +98,7 @@ https://www.piccolinagelateria.com.au/
 https://pidapipo.com/pidapipo-easter-2025/
 
 - Easter eggs
+- Hot cross doughnut (Fior di latte gelato, spiced caramel)
 
 ## Sulhwa
 https://www.instagram.com/sulhwa_australia
