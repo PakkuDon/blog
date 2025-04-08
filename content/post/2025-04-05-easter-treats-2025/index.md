@@ -9,7 +9,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: April 6th, 2025_
+_Last updated: April 8th, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -105,6 +105,12 @@ https://www.instagram.com/sulhwa_australia
 
 - Chicky (Cake. Coconut, apricot, pineapple)
 - Mif Mif (Cake. Raspberry, milk chocolate)
+
+## Tarts Anon
+https://www.tartsanon.com.au/
+
+- Easter Egg Tart (Chocolate, coconut, passionfruit)
+- Hot Cross Bun Mini
 
 ## Tokyo Lamington
 https://www.tokyolamington.com/
