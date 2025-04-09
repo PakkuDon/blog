@@ -9,7 +9,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: April 8th, 2025_
+_Last updated: April 9th, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -93,6 +93,9 @@ https://www.piccolinagelateria.com.au/
 - Rocky Road Easter Egg
 - Milo Easter Egg
 - Golden Gaytime Easter Egg
+- Chocolate and Cherry Hot Cross Bun Gelato
+- Hot Cross Bun Gelato
+- Baker Bleu collab - Hot Cross Bun Sundae
 
 ## Pidapipo
 https://pidapipo.com/pidapipo-easter-2025/
