@@ -1,7 +1,7 @@
 ---
 title: "Links"
 menu: "links"
-weight: 2
+weight: 3
 menu:
   main:
     params:
