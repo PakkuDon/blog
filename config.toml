@@ -9,6 +9,8 @@ theme = 'hugo-theme-stack'
 
 # Stack theme-specific configuration
 [params]
+  mainSections = ['post', 'link']
+
   [params.sidebar]
   emoji = "🦈"
   subtitle = "Software Engineer"
