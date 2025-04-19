@@ -9,7 +9,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: April 9th, 2025_
+_Last updated: April 19th, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -32,6 +32,15 @@ https://www.karitonsorbetes.com/
 
 - Easter egg hunt (Gelato. Cacao, salted caramel, sencha, condensed milk)
 - HCB (Gelato. Spiced golden syrup served with pineapple and salted egg hot cross buns)
+
+## Kori Ice Cream
+https://www.kori-icecream.com.au/shop/easter-2025/RPCT5L3J6C5RCWCNXWQWCO3Y
+
+- Ice Cream Easter Egg: Carrot
+- Ice Cream Easter Egg: Honeycomb
+- Ice Cream Easter Egg: Sunny Side Up
+- Ice Cream Easter Egg: Strawberry
+- Kōrinetto: Easter Nest (Ice cream cone. Hot cross bun, yuzu, chocolate)
 
 ## La Belle Miette
 https://www.labellemiette.com.au/collections/easter-25
