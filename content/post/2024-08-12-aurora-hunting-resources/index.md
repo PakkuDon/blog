@@ -8,7 +8,7 @@ tags:
   - resources
 ---
 
-_Last updated: April 6th, 2025_
+_Last updated: May 16th, 2025_
 
 There's been more auroras recently as we're either in or approaching the peak of the [solar cycle](https://www.swpc.noaa.gov/products/solar-cycle-progression). I caught my first aurora during the [G5 geomagnetic storm back in May this year](https://media.bom.gov.au/releases/1225/the-bureau-observes-a-g5-geomagnetic-storm/) and I caught a glimpse of another one from my backyard today.
 
@@ -31,8 +31,11 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 - [Southern Hemisphere Aurora Group | Facebook](https://www.facebook.com/groups/SouthernHemisphereAuroraGroup/) - Aurora forecasts and sightings from southern hemisphere
 - [Southern Hemisphere Aurora Group: Your Aurora Australis Resource for Strength Estimation (SHAG: UPYAARSE) | Facebook](https://www.facebook.com/groups/shagupyaarse/) - Aurora forecasts for southern hemisphere
 - [/r/melbourne](https://old.reddit.com/r/melbourne/) - Occasionally has aurora alerts and sightings
-- [Vincent Ledvina - 'The Aurora Guy' | Facebook](https://www.facebook.com/vincentledvina/)
+- Vincent Ledvina AKA 'The Aurora Guy' - Aurora chaser
+  - [Facebook](https://www.facebook.com/vincentledvina/)
+  - [Bluesky](https://bsky.app/profile/vincentledvina.bsky.social)
 - [NOAA Space Weather Prediction Center | Twitter](https://twitter.com/NWSSWPC)
+- [Aurora Forecast Bot from NOAA (UNOFFICIAL) | Bluesky](https://bsky.app/profile/aurora.nws-bot.us)
 
 ## Webcams
 - [Queenstown, New Zealand Roundshot](https://queenstown.roundshot.com/#/) - Shots from New Zealand. Updated every 20 minutes
@@ -51,6 +54,7 @@ Here's some resources that I've found useful as someone based in inner Victoria:
 - [theauroraguy.com](https://theauroraguy.com/) - Blog posts and guides for chasing auroras
   - [How to predict the aurora - when will it be out?](https://theauroraguy.com/blogs/blog/when-will-the-aurora-be-out)
   - [Where and when can YOU see the aurora?](https://theauroraguy.com/blogs/blog/where-and-when-can-you-see-the-aurora)
+  - [Space Weather Decision Tree - Coronal Mass Ejections | Bluesky](https://bsky.app/profile/vincentledvina.bsky.social/post/3lp4xvnnmp22h)
 
 That's all for today. Stay safe and happy hunting!
 
