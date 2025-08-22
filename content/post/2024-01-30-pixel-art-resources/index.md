@@ -7,7 +7,7 @@ tags:
   - resources
 ---
 
-_Last updated: February 28, 2025_
+_Last updated: August 22nd, 2025_
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
@@ -67,6 +67,7 @@ Artists listed in alphabetical order
 - Slynyrd ([Website](https://www.slynyrd.com/), [Bluesky](https://bsky.app/profile/slynyrd.bsky.social))
 - StuntmAEn Bob ([Bluesky](https://bsky.app/profile/stuntmaenbob.bsky.social))
 - TofuPixel ([Bluesky](https://bsky.app/profile/tofupixel.bsky.social), [Tumblr](https://tofupixel.tumblr.com/))
+- VEXED ([Bluesky](https://bsky.app/profile/v3x3d.bsky.social), [itch.io](https://v3x3d.itch.io/))
 - v78 ([Reddit](https://old.reddit.com/user/v78))
 - waneella ([Bluesky](https://bsky.app/profile/waneella.bsky.social), [Tumblr](https://waneella.tumblr.com/), [Instagram](https://www.instagram.com/waneella/))
 - yuugapaint ([Twitter](https://twitter.com/yuugapaint))
@@ -76,11 +77,11 @@ Artists listed in alphabetical order
 - [Lospec Dailies](https://lospec.com/dailies/)
 - Swordtember (During September) - Has a few variants. Founded by [faith_schaffer](https://www.instagram.com/faith_schaffer)
 - [Colour Wheel Challenge](https://twitter.com/Ankinluu_/status/1654934099373555712)
-- [Pixel Artvent | PixelArtJourney | Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social/post/3lc6cgoxds22n)
+- [Pixel Artvent 2024 | PixelArtJourney | Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social/post/3lc6cgoxds22n)
 
 # Communities
-- [#pixelart | BlueSky](https://bsky.app/hashtag/pixelart)
-- [Pixel Dailies | BlueSky](https://bsky.app/profile/pixeldailies.bsky.social)
+- [#pixelart | Bluesky](https://bsky.app/hashtag/pixelart)
+- [Pixel Dailies | Bluesky](https://bsky.app/profile/pixeldailies.bsky.social)
 - [/r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [#PortfolioDay](https://www.portfolioday.art/)
 - [Lospec Discord](https://lospec.com/discord)
