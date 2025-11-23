@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: November 22, 2025_
+_Last updated: November 23, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -36,6 +36,15 @@ https://www.labellemiette.com.au/
 - Summer Pavlova - Macaron. Meringue, summer fruits
 - Mariage Frères tea Advent Calendar
 
+## Le Petit Gateau
+https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-gateau-patisserie.html
+
+[Instagram post](https://www.instagram.com/lepetitgateaumelb/p/DRQdzPkkxsQ)
+
+- L'Ambre Epice - Cake. Honey, citrus, spiced chocolate
+- L'Opaline Royale - Cake. White chocolate, berry, cream cheese
+- L'Or des Tropiques - Cake. Mango, coconut
+
 ## Madeleine de Proust
 https://www.madeleinedeproust.com.au/
 
@@ -49,6 +58,13 @@ https://www.miilkcakestudio.com/
 
 - Dubai Chocolate - Cake. Chocolate, pistachio
 - North Pole Neopolitan - Cake. Pandan, strawberry, chocolate
+
+## Mork Chocolate
+https://www.morkchocolate.com.au/
+
+[Instagram post](https://www.instagram.com/p/DRVtOQDjrv8/)
+
+- Nutcracker Prince - Chocolate. Speculoos, almond
 
 ## Penny for Pound
 https://pennyforpound.com.au/collections/christmas
