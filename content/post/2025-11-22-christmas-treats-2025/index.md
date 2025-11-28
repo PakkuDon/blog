@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: November 23, 2025_
+_Last updated: November 28, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -27,6 +27,16 @@ https://gelatomessina.com/
 - [Sold out] Pistachio Christmas Bauble - Ice cream. Pistachio, fior di latte
 - [Sold out] 2025 Christmas Coma - Trifle. Passionfruit, strawberry, vanilla
 - [Sold out] Advent Calendar
+
+## KOI
+https://www.koidessertbar.com.au/
+
+- Christmas Garden - Oolong, peach, bergamot. Preorder by December 9
+- Wonderful Set - 4 cakes. Preorder by December 9
+  - Baubble - Pineapple, rum, mango
+  - Rudolph - Milk chocolate, rum, panettone
+  - Comet - Apple, fennel, yuzu, matcha
+  - Vixen - Strawberry, shiso, yuzu
 
 ## La Belle Miette
 https://www.labellemiette.com.au/
@@ -77,12 +87,24 @@ https://pennyforpound.com.au/collections/christmas
 https://www.piccolinagelateria.com.au/
 
 - Christmas Panettone. Nutella, hazelnut
+- Fruit Mince Pie Ice Cream - Custard, pastry crumble
+- Gingerbread and Caramel Ice Cream - Dulce de leche, gingerbread
+- Rocky Road Ice Cream - Milk chocolate, raspberry, marshmallow
 
 ## Pidapipo
 https://pidapipo.com/
 
 - Pandoro Cake - Ice cream cake. Cherry, strawberry, raspberry, chocolate
 - Milk chocolate baubles
+
+## Tarts Anon
+https://www.tartsanon.com.au/
+
+- Eggnog & Fruit Mince Tart
+- Cherry, Mulled Wine & Gingerbread Tart
+- Trifle Tart - Strawberry, vanilla, lime
+- Pavlova - Passionfruit, rhubarb, vanilla
+- Xmas Ham Pastry - Cranberry, ham
 
 ## Tori's
 https://www.toris.com.au/
