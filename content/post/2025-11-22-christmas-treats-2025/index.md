@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: November 28, 2025_
+_Last updated: December 2, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -21,12 +21,26 @@ https://bakerbleu.com.au/
 - Panettone - Chocolate & Sour Cherry
 - Panettone - Traditional
 
+## Bread Club
+https://www.instagram.com/breadclubofficial
+
+- Mince Pies
+- King Cake
+- Gingerbread Cookies
+
 ## Gelato Messina
 https://gelatomessina.com/
 
 - [Sold out] Pistachio Christmas Bauble - Ice cream. Pistachio, fior di latte
 - [Sold out] 2025 Christmas Coma - Trifle. Passionfruit, strawberry, vanilla
 - [Sold out] Advent Calendar
+
+## Hareruya Pantry
+https://www.instagram.com/hareruyapantry
+
+[Instagram post](https://www.instagram.com/hareruyapantry/p/DRtp8SqCbbG)
+
+- Christmas Cake (Matcha, strawberry)
 
 ## KOI
 https://www.koidessertbar.com.au/
@@ -37,6 +51,21 @@ https://www.koidessertbar.com.au/
   - Rudolph - Milk chocolate, rum, panettone
   - Comet - Apple, fennel, yuzu, matcha
   - Vixen - Strawberry, shiso, yuzu
+
+## Kori Ice Cream
+https://www.kori-icecream.com.au/
+
+- Peach Melba Pavlova Wreath Ice Cream Cake - Peach, raspberry, yuzu
+- Hojicha Passionfruit Panettone Ice Cream Cake - Hojicha, passionfruit, yuzu
+- Gingy Ice Cream Bites
+  - Green Gingy - Biscoff, chocolate
+  - Yellow Gingy - Kinako, gingerbread, plum
+  - Red Gingy - Strawberry cheesecake
+- White Forest Ice Cream - Milk, cherry, white chocolate
+- Mulled Plum Wine Ice Cream - Mulled wine, umeboshi
+- Panettone Ice Cream - Passionfruit, panettone
+- Matcha Strawberry Pavlova Ice Cream - Matcha, strawberry, pavlova
+- Sudachi Black Sesame Monaka Ice Cream - Sudachi (citrus), black sesame, raspberry
 
 ## La Belle Miette
 https://www.labellemiette.com.au/
@@ -54,6 +83,19 @@ https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-g
 - L'Ambre Epice - Cake. Honey, citrus, spiced chocolate
 - L'Opaline Royale - Cake. White chocolate, berry, cream cheese
 - L'Or des Tropiques - Cake. Mango, coconut
+
+## Le Yeahllow
+https://www.leyeahllow.com.au/
+
+- Christmas Fruitcake - Christmas spice, dried fruit
+- Christmas Forest - Cake. Cherry, chocolate
+- Christmas Express - Cake. Pistachio, raspberry
+- Christmas Petit Set - 4 cakes
+  - Christmas Forest - Cherry, chocolate
+  - Mont Blanc - Chestnut
+  - Christmas Bell - Biscoff, Apple
+  - Christmas Ring - Pistachio, raspberry
+- Christmas cookies
 
 ## Madeleine de Proust
 https://www.madeleinedeproust.com.au/
