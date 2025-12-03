@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: December 2, 2025_
+_Last updated: December 3, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -97,6 +97,13 @@ https://www.leyeahllow.com.au/
   - Christmas Ring - Pistachio, raspberry
 - Christmas cookies
 
+## Lune
+https://www.lunecroissanterie.com/
+
+- Bûche de Nöel - Pastry. Chestnut, cassis, frangipane
+- Eggnog Cruffin - Rum, eggnog
+- The Stuffed Turkey - Pastry. Pork, turkey, cranberry
+
 ## Madeleine de Proust
 https://www.madeleinedeproust.com.au/
 
@@ -139,6 +146,18 @@ https://pidapipo.com/
 - Pandoro Cake - Ice cream cake. Cherry, strawberry, raspberry, chocolate
 - Milk chocolate baubles
 
+## Raya
+https://www.rayamelbourne.com/
+
+- Cookie Gift Box
+- Christmas Princess Trifle - Pandan, boysenberry, marzipan
+- Pistachio Cherry Flourless Layered Cake
+- Genmaicha Fruit Mince Pie Cookie
+- Matcha Almond Pocky Cookie
+- Chai Tea Milk Chocolate Cookie
+- Orange Chocolate Checkerboard Cookie
+- Butter Cookie
+
 ## Tarts Anon
 https://www.tartsanon.com.au/
 
@@ -147,6 +166,22 @@ https://www.tartsanon.com.au/
 - Trifle Tart - Strawberry, vanilla, lime
 - Pavlova - Passionfruit, rhubarb, vanilla
 - Xmas Ham Pastry - Cranberry, ham
+
+## The Confectionist
+https://www.theconfectionist.com.au/
+
+- Christmas Crack Cookie - Salted dulce de leche, milk chocolate, toffee (Available December 1 - 7)
+
+## The Cookie Box
+https://thecookiebox.com.au/
+
+- Ginger Bread Cookie - Gingerbread, white chocolate
+
+## Tokyo Lamington
+https://www.tokyolamington.com/
+
+- Japanese Christmas Cake Lamington - Strawberry, white chocolate
+- Christmas Pudding Lamington - Christmas spices, dried fruit, white chocolate
 
 ## Tori's
 https://www.toris.com.au/
