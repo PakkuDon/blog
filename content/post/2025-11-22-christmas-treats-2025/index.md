@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: December 11, 2025_
+_Last updated: December 13, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -27,6 +27,13 @@ https://www.instagram.com/breadclubofficial
 - Mince Pies
 - King Cake
 - Gingerbread Cookies
+
+## Calle Bakery
+https://calle.com.au/
+
+[Instagram post](https://www.instagram.com/callebakery/p/DRv62xwEqeU)
+
+- Caramelised Gingerbread Croissant Wheel - Gingerbread, vanilla, salted caramel
 
 ## Gelato Messina
 https://gelatomessina.com/
@@ -148,6 +155,9 @@ https://pidapipo.com/
 
 - Pandoro Cake - Ice cream cake. Cherry, strawberry, raspberry, chocolate
 - Milk chocolate baubles
+- Raspberry and Peach Trifle Ice Cream
+- Christmas Pudding Ice Cream
+- Gingerbread and Passionfruit Swirl Ice Cream
 
 ## Raya
 https://www.rayamelbourne.com/
