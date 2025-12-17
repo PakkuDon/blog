@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: December 13, 2025_
+_Last updated: December 17, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -31,9 +31,13 @@ https://www.instagram.com/breadclubofficial
 ## Calle Bakery
 https://calle.com.au/
 
-[Instagram post](https://www.instagram.com/callebakery/p/DRv62xwEqeU)
+- [December Croissant wheels on Instagram](https://www.instagram.com/callebakery/p/DRv62xwEqeU)
+- [Christmas menu on Instagram](https://www.instagram.com/callebakery/p/DSHWAAfEu_N/)
 
-- Caramelised Gingerbread Croissant Wheel - Gingerbread, vanilla, salted caramel
+- Caramelised Gingerbread Croissant Wheel - Gingerbread, vanilla, salted caramel. Available Friday - Sunday
+- Santa Hat - Croissant. Raspberry, white chocolate, coconut
+- Yule Chocolate Log Cake - Chocolate, cherry
+- Fruit Mince Tart
 
 ## Gelato Messina
 https://gelatomessina.com/
@@ -85,11 +89,15 @@ https://www.labellemiette.com.au/
 ## Le Petit Gateau
 https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-gateau-patisserie.html
 
-[Instagram post](https://www.instagram.com/lepetitgateaumelb/p/DRQdzPkkxsQ)
+- [Whole cake specials on Instagram](https://www.instagram.com/lepetitgateaumelb/p/DRQdzPkkxsQ)
+- [Petit gateau specials on Instagram](https://www.instagram.com/lepetitgateaumelb/p/DSJKqcck3ZX/)
 
 - L'Ambre Epice - Cake. Honey, citrus, spiced chocolate
 - L'Opaline Royale - Cake. White chocolate, berry, cream cheese
 - L'Or des Tropiques - Cake. Mango, coconut
+- Rudolf - Cake. Oolong, peach, vanilla
+- Snow-woman - Cake. Mascarpone, strawberry, white chocolate, coffee
+- Santa's coming to town - Cake. Pistachio, cherry
 
 ## Le Yeahllow
 https://www.leyeahllow.com.au/
@@ -103,6 +111,13 @@ https://www.leyeahllow.com.au/
   - Christmas Bell - Biscoff, Apple
   - Christmas Ring - Pistachio, raspberry
 - Christmas cookies
+
+## Lulu and me cheesecakes
+https://www.instagram.com/luluandme_cheesecakes/
+
+- Pina Colada Trifle with Gingerbread - Cheesecake (Order by December 21)
+- Brandy Custard with X'mas Pudding Crumble - Cheesecake (Order by December 21)
+- Cherry Almond Chocolate New York - Cheesecake (Order by December 21)
 
 ## Lune
 https://www.lunecroissanterie.com/
@@ -184,7 +199,8 @@ https://www.tartsanon.com.au/
 https://www.theconfectionist.com.au/
 
 - Christmas Crack Cookie - Salted dulce de leche, milk chocolate, toffee (Available December 1 - 7)
-- Traditional Panettone Cookie - Orange, rum, sultanas (Available 8 - 14)
+- Traditional Panettone Cookie - Orange, rum, sultanas (Available December 8 - 14)
+- Fruit Cake Cookie - Orange zest, molasses, walnuts, glace cherries (Available December 15 - 21)
 
 ## The Cookie Box
 https://thecookiebox.com.au/
