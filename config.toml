@@ -53,3 +53,9 @@ theme = 'hugo-theme-stack'
     [menu.social.params]
     icon = "rss"
 
+# Allow HTML content to be rendered
+# Lets us use `img` tags to opt images like animated gifs out of default asset pipeline
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
