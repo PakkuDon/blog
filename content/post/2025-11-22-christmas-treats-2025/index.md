@@ -11,7 +11,7 @@ tags:
 
 November hasn't ended yet but somehow a couple places have already sold out of their Christmas items. So here's a not quite early enough post of all the seasonal menu items that I know of. This list will be updated throughout December 🎅
 
-_Last updated: December 22, 2025_
+_Last updated: December 28, 2025_
 
 Restaurants listed in alphabetical order
 
@@ -167,8 +167,8 @@ https://www.piccolinagelateria.com.au/
 - Fruit Mince Pie Ice Cream - Custard, pastry crumble (Available December 1 - 09)
 - Gingerbread and Caramel Ice Cream - Dulce de leche, gingerbread (Available December 1 - 09)
 - Rocky Road Ice Cream - Milk chocolate, raspberry, marshmallow (Available December 1 - 09)
-- Panettone Ice Cream (Available December 10 - 22)
-- Christmas Pudding Ice Cream (Available December 10 - 22)
+- Panettone Ice Cream (Available December 10 - 26)
+- Christmas Pudding Ice Cream (Available December 10 - 26)
 
 ## Pidapipo
 https://pidapipo.com/
