@@ -7,7 +7,7 @@ tags:
   - resources
 ---
 
-_Last updated: August 22nd, 2025_
+_Last updated: January 5th, 2026_
 
 Interesting in picking up pixel art? Here's some resources I've found useful.
 
@@ -78,6 +78,9 @@ Artists listed in alphabetical order
 - Swordtember (During September) - Has a few variants. Founded by [faith_schaffer](https://www.instagram.com/faith_schaffer)
 - [Colour Wheel Challenge](https://twitter.com/Ankinluu_/status/1654934099373555712)
 - [Pixel Artvent 2024 | PixelArtJourney | Bluesky](https://bsky.app/profile/pixelartjourney.bsky.social/post/3lc6cgoxds22n)
+- [Birbfest](https://www.instagram.com/birbfest.challenge) (During January) - Draw a bird for every day of January. Short list with 5 birds also available for those who don't have the time
+  - [2025 Birbfest prompts](https://www.instagram.com/monkeymintaka/p/DDpVHjZswc_)
+  - [2026 Birbfest prompts](https://www.instagram.com/birbfest.challenge/p/DSC-zEPDPZf/)
 
 # Communities
 - [#pixelart | Bluesky](https://bsky.app/hashtag/pixelart)
