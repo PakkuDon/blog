@@ -8,7 +8,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: February 7, 2026_
+_Last updated: February 8, 2026_
 
 Restaurants listed in alphabetical order
 
@@ -23,10 +23,35 @@ https://www.koidessertbar.com.au/
 - Flutter - Cake. Pomegranate, berry, bubble gum
 - Red rose - Cake. Oolong tea, peach, vanilla
 
+## La Belle Miette
+https://www.labellemiette.com.au/
+
+- [Collection](https://www.labellemiette.com.au/collections/valentines-day-26)
+
+- Fig, Honey, Cardamom Macaron
+- Tiramisu Cardamom
+
 ## Le Petit Gateau
 https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-gateau-patisserie.html
 
 - The Shape Of Love - Cake. Coffee, banana, strawberry, vanilla
+
+## Le Yeahllow
+https://www.leyeahllow.com.au/
+
+- Valentina - Cake. Strawberry, lime, vanilla
+
+## Lune
+https://www.lunecroissanterie.com/
+
+- The Valentine - Pastry. Strawberry, rose
+
+## Madeleine de Proust
+https://www.madeleinedeproust.com.au/
+
+- Fig in Bloom - Madeleine. Fig, strawberry, ruby chocolate
+- Teddy Love - Madeleine. Tonka, cherry, milk chocolate
+- Sweet Confession - Financier - Milk, strawberry, lime, berry chocolate
 
 ## Piccolina
 https://www.piccolinagelateria.com.au/
