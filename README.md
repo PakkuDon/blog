@@ -31,9 +31,9 @@ git submodule foreach git pull origin master
 3. Update `HUGO_VERSION` in [`.github/workflows/hugo.yml`](.github/workflows/hugo.yml) to ensure CI uses same Hugo version as local environment
 ```sh
 # Example
-curl -LJO https://github.com/gohugoio/hugo/releases/download/v0.141.0/hugo_0.141.0_linux-amd64.deb
-sudo dpkg -i hugo_0.141.0_linux-amd64.deb
-rm hugo_0.141.0_linux-amd64.deb
+curl -LJO https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_0.155.2_linux-amd64.deb
+sudo dpkg -i hugo_0.155.2_linux-amd64.deb
+rm hugo_0.155.2_linux-amd64.deb
 ```
 
 Alternatively, see [Hugo's docs](https://gohugo.io/installation/) for other methods
