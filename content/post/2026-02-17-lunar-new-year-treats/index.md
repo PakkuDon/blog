@@ -9,7 +9,7 @@ tags:
 ---
 
 
-_Last updated: February 17, 2026_
+_Last updated: February 18, 2026_
 
 Restaurants listed in alphabetical order
 
@@ -73,6 +73,11 @@ https://www.milleandb.com.au/
 - Salted Egg Yolk Cookies
 - Roasted Peanut Cookies
 
+## Nimbo
+https://www.instagram.com/hereisnimbo/
+
+- Pineapple Bingsu - Milk base, pineapple
+
 ## Pecks Road
 https://www.instagram.com/pecksroad/
 
@@ -98,3 +103,8 @@ https://www.rayamelbourne.com/
 https://www.tartsanon.com.au/
 
 - Pineapple tart - Pineapple, caramel
+
+## Tori's
+https://www.toris.com.au/
+
+- Pineapple cookies - Shortcrust pastry, pineapple
