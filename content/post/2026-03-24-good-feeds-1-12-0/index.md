@@ -12,7 +12,7 @@ A few months ago [Good Feeds](https://pakkudon.github.io/good-feeds/) reached 50
 
 So there's now a new page to view [guides](https://pakkudon.github.io/good-feeds/guides/), a curated set of restaurants grouped by some sort of theme. These can be found in the navbar
 
-![](images/guides-nav.png) ![](images/guides-list.png) ![](images/guides-view.png)
+![New guides page in navbar](images/guides-nav.png) ![List of guides in Good Feeds](images/guides-list.png) ![Map view for a specific guide](images/guides-view.png)
 
 This feature takes some inspiration from the guides on [Broadsheet](https://www.broadsheet.com.au/melbourne/directory) and [What's On Melbourne](https://whatson.melbourne.vic.gov.au/search?c=guides&scs[]=eat_and_drink). There's only three guides available so far but there'll be more to come
 
