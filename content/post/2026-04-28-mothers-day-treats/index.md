@@ -8,7 +8,7 @@ tags:
   - melbourne
 ---
 
-_Last updated: April 28, 2026_
+_Last updated: May 5, 2026_
 
 Restaurants listed in alphabetical order
 
@@ -47,6 +47,23 @@ https://www.labellemiette.com.au/collections/mothers-day-2026
 https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-gateau-patisserie.html
 
 - Mother's Day Cake (Vanilla, strawberry, coconut) ([Instagram Post](https://www.instagram.com/lepetitgateaumelb/p/DXOJZ0cE4Vk/))
+
+## Le Yeahllow
+https://www.leyeahllow.com.au/
+
+- Ivory (Cake. Raspberry, rose, coconut)
+
+## Lulu and me cheesecakes
+https://lulu-me-cheesecakes.square.site/
+
+- Prosecco & Lemon Thyme Cheesecake
+
+## Madeleine de Proust
+https://www.madeleinedeproust.com.au/
+
+- Pumpkin Pie Madeleine
+- Pink Carnation Madeleine (Citrus, tea)
+- Matcha Berry Bear Madeleine
 
 ## Miilk Cake Studio
 https://www.miilkcakestudio.com/
